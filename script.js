@@ -40,7 +40,7 @@ filterButtons.forEach(button => {
   });
 });
 
-// Chatbot Logic
+// Chatbot Logic 
 document.addEventListener("DOMContentLoaded", () => {
   const chatbot = document.getElementById('chatbot');
   const chatbotBody = chatbot.querySelector('.chatbot-body');
