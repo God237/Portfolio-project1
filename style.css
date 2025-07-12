@@ -199,3 +199,16 @@ h1{
 .flyer h2{
   margin-left: 100px;
 }
+
+body {
+  animation: appear 2s;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
