@@ -1,11 +1,8 @@
-# 🎨 Data-Driven Creative Portfolio
+# 🎨 innovative Engineer Portfolio
 
-A fully responsive, vibrant one-page portfolio website for a **Data Analyst** with multidisciplinary expertise in:
+A fully responsive, vibrant one-page portfolio website for a **Software Engineer** with multidisciplinary expertise in:
 
-- 📊 Data Analytics & Visualization
-- 🌐 Web Development
-- 📣 Digital Marketing & Campaign Strategy
-- 📷 Photography
+- 🌐 Web and mobile development
 - 🎨 Branding & Graphic Design
 
 ---
@@ -19,7 +16,7 @@ A fully responsive, vibrant one-page portfolio website for a **Data Analyst** wi
 - **Contact Form** using [Formspree](https://formspree.io/)
 - **Sticky Navbar** and **Smooth Scrolling**
 - **Dark/Light Mode** toggle
-- **AI Chatbot Placeholder** (expandable with OpenAI API)
+- **AI Chatbot Placeholder** 
 - **Fully responsive** with Bootstrap 5 (mobile-first design)
 
 ---
@@ -28,7 +25,7 @@ A fully responsive, vibrant one-page portfolio website for a **Data Analyst** wi
 
 - HTML5, CSS3 (Custom + Bootstrap 5)
 - JavaScript (Vanilla)
-- Font Awesome for icons
+- Font Awesome and SVG for icon
 - Google Fonts (optional)
 - Formspree for contact submissions
 
@@ -38,8 +35,8 @@ A fully responsive, vibrant one-page portfolio website for a **Data Analyst** wi
 
 | Role            | Color Name       | Hex Code    |
 |------------------|------------------|-------------|
-| Primary          | Royal/Navy Blue  | `#1e3a8a`   |
-| Accent           | Sky Blue         | `#3b82f6`   |
+| Primary          | blue             | `#3b82f6`   |
+| Accent           | red              | `#f0003c`   |
 | Highlight        | Yellow           | `#facc15`   |
 | Background       | White            | `#ffffff`   |
 | Text/Base        | Dark Gray        | `#333333`   |
